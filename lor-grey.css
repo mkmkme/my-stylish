@@ -84,6 +84,9 @@ pre {
     border: 1px solid !important;
     font-family: monaco,Consolas,Lucida Console,monospace; 
 }
+.boxlet {
+    border-radius: 0px !important;
+}
 .stars {
 	color: #000000;
     font-size: 0.8rem;
