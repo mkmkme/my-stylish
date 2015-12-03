@@ -1,0 +1,11 @@
+@namespace html url(http://www.w3.org/1999/xhtml);
+@namespace xul url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+* {
+    color: #333333 !important;
+    border-color: #333333 !important;
+    outline-color: #333333 !important;
+    text-shadow: none !important;
+    background-color: #c9c9c9 !important;
+    font-family: PT Sans Caption !important;
+    font-weight: normal !important;
+}
