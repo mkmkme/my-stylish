@@ -38,7 +38,7 @@ a {
 #bd .sign a:visited {
     color: #606090 !important;
 }
-/* A little bit of my corrections - revhom */
+/* A little bit of my corrections - revhom {{{ */
 /* Remove curve posts */
 
 article,
@@ -76,25 +76,25 @@ h2 {
 /* fix code */
 pre {
     background-color: #444444 !important;
-    font-family: monaco,Consolas,Lucida Console,monospace;
+    font-family: monaco, Consolas, Lucida Console, monospace;
     color: #AAAAAA;
 }
 .code {
     background: #444444 !important;
     border: 1px solid !important;
-    font-family: monaco,Consolas,Lucida Console,monospace; 
+    font-family: monaco, Consolas, Lucida Console, monospace;
 }
 .boxlet {
     border-radius: 0px !important;
 }
 .stars {
-	color: #000000;
+    color: #000000;
     font-size: 0.8rem;
 }
 th {
     color: #000000;
 }
-/* End of my corrections */
+/* }}} my corrections */
 
 div.messages .title {
     background: none !important;
@@ -125,14 +125,14 @@ table.nav > tbody > tr > td {
     border: 1px solid #ff0000 !important;
 }
 .user-remark {
-	color: #000000 !important;
+    color: #000000 !important;
 }
 .btn {
-	border: 1px solid #000000 !important;
+    border: 1px solid #000000 !important;
     border-radius: 0px !important;
 }
 span.code {
-	color: #AAAAAA !important;
+    color: #AAAAAA !important;
     border: 1px solid #000000 !important;
     padding: -1px;
 }
